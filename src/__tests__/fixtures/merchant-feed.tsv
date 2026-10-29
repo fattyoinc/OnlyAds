@@ -1,0 +1,6 @@
+id	title	description	link	image_link	availability	price	sale_price	sale_price_effective_date	brand	google_product_category	product_type
+SKU-1	Trail Runner X	Lightweight "trail" shoe, grippy	https://shop.example.com/p/1	https://img.example.com/1.jpg	in_stock	120.00 USD	84.00 USD	2026-10-01T00:00-0700/2026-11-30T23:59-0700	ExampleCo	Apparel & Accessories > Shoes > Athletic Shoes	Shoes > Running
+SKU-2	Wireless Earbuds	True wireless earbuds	https://shop.example.com/p/2		in stock	USD 59.99			ExampleCo	Electronics > Audio > Headphones	
+SKU-3	Sold Out Mug	Ceramic	https://shop.example.com/p/3		out_of_stock	12 USD			ExampleCo	Home & Garden > Kitchen	
+SKU-4	Expired Sale Lamp	Desk lamp	https://shop.example.com/p/4		in_stock	80.00 USD	40.00 USD	2026-01-01T00:00-0800/2026-01-31T23:59-0800	ExampleCo	Home & Garden > Lighting	
+SKU-5	Insecure Link	x	http://shop.example.com/p/5		in_stock	5 USD			ExampleCo		

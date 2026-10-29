@@ -39,3 +39,24 @@ yarn-error.*
 # generated native folders
 /ios
 /android
+
+# local env (may hold LAN URLs)
+.env
+.env.local
+
+# E2E output
+docs/screenshots/e2e/
+only-ads-mvp.tar.gz
+
+# server databases
+server/*.db
+server/*.db-*
+backups/
+
+# E2E screenshots, archives
+docs/screenshots/e2e/
+*.tar.gz
+*.bundle
+
+# Confidential investor material (repo is public)
+docs/investor/

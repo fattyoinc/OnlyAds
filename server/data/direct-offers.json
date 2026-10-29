@@ -1,0 +1,20 @@
+{
+  "_comment": "Offers submitted directly by an advertiser (self-serve format). Fictional demo content.",
+  "offers": [
+    {
+      "id": "cold-brew-week",
+      "kind": "local",
+      "category": "food",
+      "title": "Free Cold Brew Refill All Week",
+      "subtitle": "Bring your cup back",
+      "description": "Buy any cold brew and refills are free for the rest of the day, all week long.",
+      "promoLabel": "Free refills",
+      "expiresAt": "2027-06-30T23:59:00Z",
+      "ctaLabel": "Get directions",
+      "url": "https://example.com/luma-cafe",
+      "tags": ["coffee", "cold brew", "cafe"],
+      "creative": { "colors": ["#6F4E37", "#C69C6D"], "icon": "coffee" },
+      "location": { "lat": 25.7698, "lng": -80.1945, "address": "77 Ocean Dr", "placeName": "Luma Café" }
+    }
+  ]
+}

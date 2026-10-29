@@ -1,0 +1,11 @@
+{
+  "_comment": "FICTIONAL demo advertisers for development/staging. is_demo=1: never served in production.",
+  "advertisers": [
+    { "id": "northbeam", "name": "Northbeam Outfitters", "allowedDomains": ["example.com"] },
+    { "id": "luma-cafe", "name": "Luma Café", "allowedDomains": ["example.com"], "sponsored": true }
+  ],
+  "feeds": [
+    { "id": "northbeam", "advertiserId": "northbeam", "kind": "merchant_tsv", "source": "feeds/northbeam.tsv" },
+    { "id": "luma", "advertiserId": "luma-cafe", "kind": "direct_json", "source": "direct-offers.json" }
+  ]
+}
